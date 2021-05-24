@@ -1,5 +1,5 @@
 /* styles go here */
-p {
+.indentation {
   margin: 10px 0;
 }
 
@@ -7,14 +7,14 @@ p {
   width: 65px;
 }
 
-p:first-of-type {
+.indentation:first-of-type {
   margin-top: 0;
 }
 
-p:last-of-type {
+.indentation:last-of-type {
   margin-bottom: 0;
 }
 
-fieldset {
+.fieldset-indentation {
   margin-bottom: 20px;
 }
